@@ -18,7 +18,7 @@ npm install --save-dev jest
 In your `package.json`, add or modify the test script to use Jest:
 ```json
 "scripts": {
-  "test": "jest"
+  "test": "jest --coverage"
 }
 ```
 
