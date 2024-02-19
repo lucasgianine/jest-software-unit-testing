@@ -33,4 +33,7 @@ Jest will automatically find test files and execute them. If everything is corre
 ## Result
 ![image](https://github.com/lucasgianine/jest-software-unit-testing/assets/125743142/00176d4d-3ec2-4251-875e-9ad5810f810a)
 
+## About repo
+![GitHub last commit](https://img.shields.io/github/last-commit/lucasgianine/jest-software-unit-testing)
+
 *(README criado com ajuda de IA)*
