@@ -30,4 +30,7 @@ npm test
 
 Jest will automatically find test files and execute them. If everything is correct, you will see an output indicating that the test passed.
 
+## Result
+![image](https://github.com/lucasgianine/jest-software-unit-testing/assets/125743142/00176d4d-3ec2-4251-875e-9ad5810f810a)
+
 *(README criado com ajuda de IA)*
